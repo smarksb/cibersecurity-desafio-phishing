@@ -46,7 +46,7 @@ sudo su
 <td>02</td> Iniciando o setoolkit
 
 ```sh
-sudo su
+setoolkit
 ```
 <td>03</td> Obtendo o endereço da máquina
 
