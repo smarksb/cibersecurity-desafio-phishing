@@ -11,6 +11,8 @@ Conseguir coletar a credencial de acesso do Facebook.
 - [setoolkit](https://www.kali.org/tools/set/)
 <br>
 
+## Etapas do projetos
+
 <table>
   <thead>
     <tr align="center">
@@ -18,26 +20,18 @@ Conseguir coletar a credencial de acesso do Facebook.
       <th>Etapas</th>
     </tr>
   </thead>
-  <tbody align="left">
+  <tbody>
     <tr>
       <td>01</td>
       <td>Baixar Ferramentas</td>
-      <td align="left">
-      </td>
     </tr>
     <tr>
       <td>02</td>
       <td>Instalação e configuração do ambiente</td>
-      <td align="left">
-      </td>
     </tr>
     <tr>
       <td>03</td>
       <td>Coletando a informação</td>
-      <td align="left">
-      </td>    
-    </tr>
-    <tr>   
     </tr>
   </tbody>
 </table>
@@ -46,17 +40,17 @@ Conseguir coletar a credencial de acesso do Facebook.
 
  <td>01</td> Acessando root
 
-```mermaid
+```sh
 sudo su
 ```
 <td>02</td> Iniciando o setoolkit
 
-```mermaid
+```sh
 sudo su
 ```
 <td>03</td> Obtendo o endereço da máquina
 
-```mermaid
+```sh
 ifconfig
 ```
 
