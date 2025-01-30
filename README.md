@@ -9,7 +9,6 @@ Conseguir coletar a credencial de acesso do Facebook.
 ## Ferramentas
 - [Kali Linux](https://www.kali.org/docs/)
 - [setoolkit](https://www.kali.org/tools/set/)
-<br>
 
 ## Etapas do projetos
 
@@ -38,17 +37,17 @@ Conseguir coletar a credencial de acesso do Facebook.
 
 ## Instalando as ferramentas
 
- <td>01</td> Acessando root
+ <td>01</td> - Acessando root
 
 ```sh
 sudo su
 ```
-<td>02</td> Iniciando o setoolkit
+<td>02</td> - Iniciando o setoolkit
 
 ```sh
 setoolkit
 ```
-<td>03</td> Obtendo o endereço da máquina
+<td>03</td> - Obtendo o endereço da máquina
 
 ```sh
 ifconfig
@@ -105,7 +104,6 @@ Pronto, agora é só preencher os dados.
     </td>
 </table>
 
-
 ## Informações obtidas com êxito
 <table>
   <tr>
@@ -113,7 +111,6 @@ Pronto, agora é só preencher os dados.
       <img src="https://i.ibb.co/xt3TbkQ7/Captura-de-tela-2025-01-29-134603.png" alt="captura resultado" border="0"></a>
     </td>
 </table>
-
 
 ##
 <div align="center">Feito por <a href="https://github.com/smarksb">smarksb</a>.</div>  
