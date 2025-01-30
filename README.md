@@ -113,5 +113,5 @@ Pronto, agora é só preencher os dados.
 </table>
 
 ##
-<div align="center">Feito por <a href="https://github.com/smarksb">smarksb</a>.</div>  
-<center>Repositório desenvolvido para fins educativos.</center>
+<div align="center">Feito por <a href="https://github.com/smarksb">smarksb</a>.</div>
+<div align="center">Repositório desenvolvido para fins educativos.</a></div>
